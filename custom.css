@@ -1,0 +1,12 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 30px 15px;
+}
